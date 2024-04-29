@@ -13,7 +13,7 @@ After installing [Anaconda](https://www.anaconda.com/), create a new Conda envir
 Download datasets and update the data directory in read_*_dataset.py
 
 ## Pretrained ranker
-Download pretrained ranker at https://drive.google.com/drive/folders/123GD7vO_ZMtcXtMQV2Kj5PK_0UCzFwlE?usp=share_link
+Download pretrained ranker at https://drive.google.com/drive/folders/123GD7vO_ZMtcXtMQV2Kj5PK_0UCzFwlE?usp=share_link  
 Put pretrained_ranker at the directory UT-Zap50K/.
 
 ## Training
