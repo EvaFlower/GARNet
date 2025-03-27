@@ -7,6 +7,8 @@ Code for [Generative Adversarial Ranking Nets](https://jmlr.org/papers/v25/23-04
 ## Environment
 After installing [Anaconda](https://www.anaconda.com/), create a new Conda environment using `conda env create -f environment.yml`.
 
+`pip install allrank --no-deps`
+
 ## Dataset
 - MNIST
 - **[LFW](https://vis-www.cs.umass.edu/lfw/)**
