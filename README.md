@@ -1,6 +1,8 @@
 # Generative Adversarial Ranking Nets
 
-Code for [Generative Adversarial Ranking Nets]() (JMLR 2024). 
+![GARNet]([https://github.com/user/repo/blob/main/images/figure.png](https://github.com/EvaFlower/GARNet/blob/main/GARNet_framework.png)?raw=true)
+
+Code for [Generative Adversarial Ranking Nets](https://jmlr.org/papers/v25/23-0461.html) (JMLR 2024). 
 
 ## Environment
 After installing [Anaconda](https://www.anaconda.com/), create a new Conda environment using `conda env create -f environment.yml`.
