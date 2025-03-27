@@ -1,6 +1,6 @@
 # Generative Adversarial Ranking Nets
 
-![GARNet]([https://github.com/user/repo/blob/main/images/figure.png](https://github.com/EvaFlower/GARNet/blob/main/GARNet_framework.png)?raw=true)
+![GARNet](https://github.com/EvaFlower/GARNet/blob/main/GARNet_framework.png?raw=true)
 
 Code for [Generative Adversarial Ranking Nets](https://jmlr.org/papers/v25/23-0461.html) (JMLR 2024). 
 
